@@ -33,8 +33,9 @@ REM fritzing: like eagle.
 REM libreoffice: Word prcoess, spreadsheets and presentations.
 REM notepadplusplus: mighty editor.
 REM tightvnc: Accessing remote machines.
+REM virtualbox: Virtual machines
 REM wireshark: Network traffic analyzer.
-choco install 7zip eagle foxitreader fritzing libreoffice notepadplusplus tightvnc wireshark -y
+choco install 7zip eagle foxitreader fritzing libreoffice notepadplusplus tightvnc virtualbox wireshark -y
 
 REM Install scapy via pip - needs Pcap (via wireshark)
 pip install scapy-python3
@@ -44,5 +45,6 @@ choco install wget -y
 wget https://www.apachefriends.org/xampp-files/5.6.30/xampp-win32-5.6.30-1-VC11-installer.exe
 start /wait xampp-win32-5.6.30-1-VC11-installer.exe
 del xampp-win32-5.6.15-1-VC11-installer.exe
+
 
 pause

@@ -1,6 +1,6 @@
 # Windows Default Installation
 
-Bestimmte Programme Werden immer wieder benötigt. Eine sinnvolle
+Bestimmte Programme werden immer wieder benötigt. Eine sinnvolle
 Auswahl von Programmen lässt sich mit der Batch-Datei in diesem Repo
 installieren.
 

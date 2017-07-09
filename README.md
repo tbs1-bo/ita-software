@@ -4,11 +4,15 @@ Bestimmte Programme werden immer wieder benötigt. Eine sinnvolle
 Auswahl von Programmen lässt sich mit der Batch-Datei in diesem Repo
 installieren.
 
-## Installation starten
+## Download
 
 Lade das aktuelle
 [Archiv](https://github.com/tbs1-bo/ita-software/archive/master.zip)
-herunter und extrahiere es. Führe die Datei 
+herunter und extrahiere es. 
+
+## Installation
+
+Führe die Datei 
 `windows_default_install.bat` als Administrator aus (Rechtsklick ->
 als Administrator ausführen).
 

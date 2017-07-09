@@ -6,13 +6,16 @@ installieren.
 
 ## Installation starten
 
-Lade die Datei `windows_default_install.bat` herunter und führe sie als
-Administrator aus (Rechtsklick -> als Administrator ausführen).
+Lade das
+aktuelle [archiv](https://github.com/tbs1-bo/ita-software/releases)
+herunter und extrahiere es. Führe die Datei
+`windows_default_install.bat` als Administrator aus (Rechtsklick ->
+als Administrator ausführen).
 
 Der folgende Installationsprozess kann eine Weile dauern.
 
-Wenn nicht alle Programme installiert werden sollen, können sie
-mit `REM` auskommentiert werden.
+Wenn nicht alle Programme installiert werden sollen oder Probleme
+auftauchen, können sie mit `REM` auskommentiert werden.
 
 
 ## Software

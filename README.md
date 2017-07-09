@@ -6,7 +6,7 @@ installieren.
 
 ## Installation starten
 
-Lade die Datei `windows_default_install.bat` und führe sie als
+Lade die Datei `windows_default_install.bat` herunter und führe sie als
 Administrator aus (Rechtsklick -> als Administrator ausführen).
 
 Der folgende Installationsprozess kann eine Weile dauern.

@@ -11,9 +11,6 @@ REM Install chocolately.org
 REM Tools (look into README.md for more information)
 choco install 7zip cygwin geany git putty python3 winscp win32diskimager -y
 
-REM upgrade pip (from python)
-python -m pip install --upgrade pip
-
 REM install eapi for the eamodule
 pip install eapi
 

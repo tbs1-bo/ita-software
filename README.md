@@ -44,7 +44,7 @@ auftauchen, können sie mit `REM` auskommentiert werden.
 
 - [eagle](https://www.autodesk.com/products/eagle/overview): Layouting
   für elektrische Schaltungen.
-- [foxitreader](https://www.foxitsoftware.com/de/products/pdf-reader/):
+- [foxitreader](https://www.foxitsoftware.com/pdf-reader/):
   PDF-Dokumente betrachten und mit Anmerkungen versehen.
 - [fritzing](http://fritzing.org): freie Layouting-Software für
   elektrische Schaltungen.
